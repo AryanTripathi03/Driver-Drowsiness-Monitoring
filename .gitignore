@@ -1,0 +1,11 @@
+# Ignore the large dlib model
+*.dat
+
+# Python Cache
+__pycache__/
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
